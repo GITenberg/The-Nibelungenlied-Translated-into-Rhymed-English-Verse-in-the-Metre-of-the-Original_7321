@@ -1,0 +1,25 @@
+_repo: The-Nibelungenlied-Translated-into-Rhymed-English-Verse-in-the-Metre-of-the-Original_7321
+contributor:
+  translator:
+    agent_name: Needler, G. H. (George Henry)
+    alias: Needler, George Henry
+    birthdate: 1866
+    deathdate: 1962
+    gutenberg_agent_id: '2422'
+    url: http://www.gutenberg.org/2009/agents/2422
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, German -- Translations into English'
+- !lcc 'PT'
+title: 'The Nibelungenlied
+
+  Translated into Rhymed English Verse in the Metre of the Original'
+url: http://www.gutenberg.org/ebooks/7321
